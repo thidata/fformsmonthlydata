@@ -1,1 +1,5 @@
 monthly/.rda filter=lfs diff=lfs merge=lfs -text
+monthly/bestvarm.rda filter=lfs diff=lfs merge=lfs -text
+monthly/nodepredm.rda filter=lfs diff=lfs merge=lfs -text
+monthly/treemapm.rda filter=lfs diff=lfs merge=lfs -text
+monthly/xbestsplitm.rda filter=lfs diff=lfs merge=lfs -text
